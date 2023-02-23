@@ -1,5 +1,7 @@
 # Coffee-Machine-OOP
 
+#old version - https://github.com/hashimnwr/Coffee-machine
+
 #Documentation
 
  MenuItem Class Attributes:
